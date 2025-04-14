@@ -1,0 +1,7 @@
+The Origins of Quantum Physics?
+
+Quantum physics is the study of matter and energy at the most fundamental level. It aims to uncover the properties and behaviors of the very building blocks of nature. Among the basic discoveries was the realization that matter and energy can be thought of as discrete packets, or quanta, that have a minimum value associated with them. For example, light of a fixed frequency will deliver energy in quanta called "photons." Each photon at this frequency will have the same amount of energy, and this energy can't be broken down into smaller units. In fact, the word "quantum" has Latin roots and means "how much."
+
+
+
+Modern quantum physics instead understands electrons as being distributed within orbitals, mathematical descriptions that represent the probability of the electrons' existence in more than one location within a given range at any given time. Electrons can jump from one orbital to another as they gain or lose energy, but they cannot be found between orbitals.
