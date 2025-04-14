@@ -1,1 +1,2 @@
 # Learning-Assistant
+The AI-based Question Answer Generation and Evaluation System uses advanced natural language processing and machine learning techniques to automate question creation and answer assessment. It generates diverse, contextually relevant questions from text and evaluates answers with machine learning models, providing detailed feedback and scoring. This system enhances educational and training environments by offering efficient, scalable, and consistent assessment methods, improving learning outcomes and personalized experiences.
